@@ -10,4 +10,4 @@ In Hitobito können heute Personen und Abonnemente nach ihren Attributen gefilte
 
 ## Konzeption
 - 1.0 Konzept
--   
+  - 1.1 [Personfilter Functionality](1_konzeption/1.1_person_filter_funktionalität.md)
