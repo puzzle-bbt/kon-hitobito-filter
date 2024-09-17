@@ -1,6 +1,5 @@
 # Personenfilter Funktionalität
 
-
 coole Grafik ... ich denke das mit den Filtered List ist vermutlich die Komponente die man gut übernehmen kann und es nicht viel Anpassungen braucht. Dieses Konzept ist doch relativ neu. 
 Spannend hier wäre sicher was die Unterschiede zu den Mailing Lists sind.
 
@@ -30,7 +29,5 @@ Attribute nach denen gefiltert wurde befinden sich in der URL und können somit 
 
 ## Response
 Die Response welche wir vom Controller erhalten kommt direkt als HTML:
-
-- Achte bitte darauf das keine echten Daten wie z.B. E-mail adressen in Screenshots landen
 
 ![personfilter request example](_diagrams/person_filter_result.png)
