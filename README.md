@@ -12,8 +12,7 @@ In Hitobito können heute Personen und Abonnemente nach ihren Attributen gefilte
   - 1.1 [Ist-Situation](1_konzeption/1_1_ist_situation/README#11-ist-situation)
     - 1.1.1 [Fachlich](1_konzeption/1_1_ist_situation/fachlich.md)
     - 1.1.2 [Technisch](1_konzeption/1_1_ist_situation/technisch.md)
-      - 1.1.2.1 [Personenfilter Funktionalität](1_konzeption/1_1_ist_situation/technisch.md)
-      - 1.1.2.2 [Eventfilter Funktionalität](1_konzeption/1_1_ist_situation/technisch.md)
+    - 1.1.3 [Unterschiede zu Personen-Listen und Abos](1_konzeption/1_1_ist_situation/unterschiede.md)
 
 Mache hier eine komplette Aufnahme der Ist-Situation. Zu Beginn erst mal wirklich aus User-Sicht und lass die technischen Details erst mal weg:
 
