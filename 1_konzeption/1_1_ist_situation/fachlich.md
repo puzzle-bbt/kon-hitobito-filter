@@ -106,3 +106,9 @@ auszuführen.
 
 <img src="../../assets/img/Saving.png">
 <i>Option to save filter</i>
+
+## Filter teilen
+Der Filter kann einem anderen User übermittelt werden indem man den generierten Link aus der Leiste kopiert und
+ihm diesen übermittelt.
+
+
