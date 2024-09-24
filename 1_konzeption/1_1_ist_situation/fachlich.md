@@ -11,6 +11,9 @@ die Resultate filtert. Hier haben wir drei Auswahlsmöglichkeiten:
 2. Top-Group: Der Datenpool umfasst die aktuelle Ebene und alle ihre Gruppen
 3. Group: Der Datenpool umfasst die aktuelle Gruppe
 
+<img src="../../assets/img/Layers.png">
+<i>Layers selection in UI</i>
+
 ### Rollen
 Beim Filterkriterium "Rollen" kann definiert werden welche Rollen welche dazügehörige Gültigkeit
 die Personen aufweisen müssen. Hitobito bietet dafür folgenden Möglichkeiten:
@@ -24,6 +27,9 @@ die Personen aufweisen müssen. Hitobito bietet dafür folgenden Möglichkeiten:
       ist.
 3. Archivierte Rollen: Der User kan entscheiden ob archivierte Rollen im Datenpool miteinbezogen werden sollen.
 
+<img src="../../assets/img/roles.png">
+<i>Roles selection in UI</i>
+
 ### Qualifikation
 Durch das Filterkriterium "Qualifikation" schränken wir den Datenpool durch vom User ausgewählte Qualifikationen ein:
 
@@ -32,6 +38,9 @@ Durch das Filterkriterium "Qualifikation" schränken wir den Datenpool durch vom
    im Suchergebnis inkludiert zu werden.
 3. Gültigkeit: Durch das Filterkriterium "Gültigkeit" kann der User auf eine Gültikeit an einem bestimmten Stichdatum
    filtern.
+
+<img src="../../assets/img/Qualification.png">
+<i>Qualifications in UI</i>
 
 ### Felder
 Das Filterkriterium "Felder" bietet dem User eine Vielzahl an Zusatzattribute für die Filterung an. Pro ausgewählten
@@ -69,6 +78,10 @@ Das Textwerten der Personen:
 
 dem angegebenen Wert entsprechen.
 
+<img src="../../assets/img/fields.png">
+<i>Dynamic fields filter</i>
+
+
 ### Sprache
 Durch das Filterkriterium "Sprache" definieren wir welche Sprache die Personen können müssen.
 Wir bieten drei Sprachen aus Auswahlmöglichkeit an:
@@ -76,12 +89,20 @@ Wir bieten drei Sprachen aus Auswahlmöglichkeit an:
 - Englisch
 - Französisch
 
+<img src="../../assets/img/Langage.png">
+<i>Language filter selection</i>
 
 ### Tags
 Als letztes Filterkriterium bietet Hitobito die "Tags" an. Folgende Filtermöglichkeiten ergeben sich dadurch:
 - Personen miteinbeziehen, welche mindestens eines der angegebenen Tags verfügen.
 - Personen ausschliessen, welche mindestens eines der angegebenen Tags verfügen
 
+<img src="../../assets/img/Tags.png">
+<i>Tags filter selection</i>
+
 ## Speicherung
 Für Wiederverwendungszwecke ist es dem Benutzer möglich den gesamten Filter zu speichern und anschliessend erneut
 auszuführen.
+
+<img src="../../assets/img/Saving.png">
+<i>Option to save filter</i>
