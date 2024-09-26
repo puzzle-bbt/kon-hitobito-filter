@@ -10,6 +10,3 @@
 - Speicherung
   - Der Abonnementenfilter wird permanent auf die Subscription gesetzt bis ein Benutzer diesen Filter updated.
   - Der Personenfilter kann gespeichert werden, muss dann aber vom User erneut aufgerufen werden.
-
-## Technische Unterschiede
-(To be continued)
