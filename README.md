@@ -9,7 +9,7 @@ In Hitobito können heute Personen und Abonnemente nach ihren Attributen gefilte
 
 ## Konzeption
 - 1.0 Konzept
-  - 1.1 [Ist-Situation](1_konzeption/1_1_ist_situation/README#11-ist-situation)
+  - 1.1 [Ist-Situation](1_konzeption/1_1_ist_situation)
     - 1.1.1 [Fachlich](1_konzeption/1_1_ist_situation/fachlich)
       - 1.1.1.1 [People List Filter](1_konzeption/1_1_ist_situation/fachlich/people_list_filter.md)
       - 1.1.1.2 [People Filter Mailing List](1_konzeption/1_1_ist_situation/fachlich/people_filter_mailing_list.md)
