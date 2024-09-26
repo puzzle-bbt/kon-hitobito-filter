@@ -10,11 +10,8 @@ In Hitobito können heute Personen und Abonnemente nach ihren Attributen gefilte
 ## Konzeption
 - 1.0 Konzept
   - 1.1 [Ist-Situation](1_konzeption/1_1_ist_situation/README#11-ist-situation)
-    - 1.1.1 [Fachlich](1_konzeption/1_1_ist_situation/fachlich.md)
+    - 1.1.1 [Fachlich](1_konzeption/1_1_ist_situation/fachlich)
+      - 1.1.1.1 [People List Filter](1_konzeption/1_1_ist_situation/fachlich/people_list_filter.md)
+      - 1.1.1.2 [People Filter Mailing List](1_konzeption/1_1_ist_situation/fachlich/people_filter_mailing_list.md)
     - 1.1.2 [Technisch](1_konzeption/1_1_ist_situation/technisch.md)
     - 1.1.3 [Unterschiede zu Personen-Listen und Abos](1_konzeption/1_1_ist_situation/unterschiede.md)
-
-Mache hier eine komplette Aufnahme der Ist-Situation. Zu Beginn erst mal wirklich aus User-Sicht und lass die technischen Details erst mal weg:
-
-1. Nach welchen Kriterien kann ich heute Personen filtern?
-2. Wo sind die Unterschiede zwischen den Personen-Filtern für Personen-Listen und Abos?
