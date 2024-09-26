@@ -1,7 +1,7 @@
 # People List Filter Funktionalität
 
 ![personfilter functionality](../_diagrams/person_filter.png)
-*Sequenzdiagramm des Personenfilters*
+*Sequenzdiagramm des People List Filters*
 
 ## Beschreibung
 
