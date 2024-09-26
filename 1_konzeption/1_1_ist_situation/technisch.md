@@ -1,14 +1,11 @@
-# Personenfilter Funktionalität
-
-coole Grafik ... ich denke das mit den Filtered List ist vermutlich die Komponente die man gut übernehmen kann und es nicht viel Anpassungen braucht. Dieses Konzept ist doch relativ neu. 
-Spannend hier wäre sicher was die Unterschiede zu den Mailing Lists sind.
+# People List Filter Funktionalität
 
 ![personfilter functionality](../_diagrams/person_filter.png)
-*Sequenzdiagramm des Personenfilters*
+*Sequenzdiagramm des People List Filters*
 
 ## Beschreibung
 
-Der Personenfilter setzt sich aus drei Klassen zusammen:
+Der People List Filter setzt sich aus drei Klassen zusammen:
 
 - PeopleController
 - Person::Filter::List
